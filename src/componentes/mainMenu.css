@@ -1,0 +1,23 @@
+.main-container{
+    background-color: beige;
+display: grid;
+grid-template-columns: 75% 25%;
+
+}
+
+
+.grid-container{
+   display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+    background-color:bisque;
+    margin: 20px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.carrito{
+   
+    color:red
+}
